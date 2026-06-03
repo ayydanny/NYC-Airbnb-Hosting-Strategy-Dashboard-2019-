@@ -6,7 +6,7 @@ Are you considering becoming an Airbnb host in New York City but unsure where to
 
 This project analyzes the 2019 NYC Airbnb market to help prospective hosts make data-driven decisions regarding where to operate, what type of property to offer, and how to price listings competitively. Using Airbnb listing, pricing, and review data, this analysis identifies market opportunities across NYC boroughs and provides actionable recommendations for different hosting strategies.
 
-<img width="1193" height="795" alt="image" src="https://github.com/user-attachments/assets/37495f21-1eda-4a4c-a035-06f9a20bd09d" />
+<img width="1200" height="801" alt="image" src="https://github.com/user-attachments/assets/722489ca-11b2-4e6f-9fbe-186cfda5738f" />
 
 ## Business Problem
 A prospective Airbnb host wants to understand:
@@ -44,9 +44,9 @@ The following cleaning steps were performed:
 - Validated pricing distributions and outliers  
 - Exported a cleaned dataset for analysis  
 
-## Tool Used
+## Tools Used
 
-- **SQL:** Data exploration and aggreggation
+- **SQL:** Data exploration and aggregation
 - **Python (Pandas):** Data cleaning and pricing analysis
 - **Tableau:** Dashboard development and visualization
 
@@ -105,4 +105,4 @@ The metric combines pricing power and guest activity to estimate market attracti
 - The Market Opportunity Score should not be interpreted as actual profitability.
 
 ## Dashboard
-<img width="1193" height="795" alt="image" src="https://github.com/user-attachments/assets/08ee1c28-9ad2-4d96-a8c6-64b0495a1cfc" />
+<img width="1200" height="801" alt="image" src="https://github.com/user-attachments/assets/717d3614-f350-495b-bc18-4ed572a3a6f3" />
