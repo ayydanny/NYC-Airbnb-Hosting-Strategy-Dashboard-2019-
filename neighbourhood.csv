@@ -1,0 +1,6 @@
+borough,listings,avg_price,avg_monthly_reviews,avg_minimum_nights,opportunity_score
+Manhattan,21660,196.88,1.27,8.58,250.46
+Brooklyn,20095,124.44,1.28,6.06,159.66
+"Staten Island",373,114.81,1.87,4.83,215
+Queens,5666,99.52,1.94,5.18,193.18
+Bronx,1090,87.58,1.84,4.56,160.88
